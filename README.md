@@ -8,7 +8,7 @@
 * BeautifulSoup
 * sys
 
-### Just inplace address of your site into code below 
+### Just inplace address of your site into code below  and run
 ``` python 
 
     rscraper = RecursiveScraper("http://your's_address.com")
