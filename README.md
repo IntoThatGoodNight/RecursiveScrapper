@@ -1,7 +1,7 @@
-# RecursiveScrapper
+## RecursiveScrapper ##
 
 
-## Used libraries 
+## Used libraries ##
 * re
 * urlparse 
 * requests
