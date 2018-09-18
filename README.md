@@ -1,11 +1,11 @@
 ## RecursiveScrapper ##
 ## Used libraries ##
 ```
-* re
-* urlparse 
-* requests
-* BeautifulSoup
-* sys
+re
+urlparse 
+requests
+BeautifulSoup4
+sys
 ```
 ### If you have not this package's, simply add a new line and write the command below
 ``` 
