@@ -9,7 +9,7 @@
 * sys
 
 ### Just inplace address of your site into code below  and run
-```python 
+```jupyter
 
     rscraper = RecursiveScraper("http://your's_address.com")
     rscraper.scrape()
